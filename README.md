@@ -11,6 +11,10 @@ Every entry consists of the following items:
 
 ## Contents
 
+[Matrix Widget](#matrix-widget)
+
+## Projects
+
 ### Matrix widget
 
 ![icon](https://raw.githubusercontent.com/JelteMX/mendix-dynamic-table/master/assets/AppStoreIcon.png)
