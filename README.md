@@ -11,7 +11,10 @@ Every entry consists of the following items:
 
 ## Contents
 
-[Matrix Widget](#matrix-widget)
+- [Matrix Widget](#matrix-widget)
+- [Tree Table](#tree-table)
+- [Tree View](#tree-view)
+- [File Dropper](#file-dropper)
 
 ## Projects
 
