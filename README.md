@@ -31,7 +31,7 @@ As I have published a couple of widgets in the Mendix App Store, I am releasing 
 
 ### File Dropper
 
-![icon]
+![icon](https://raw.githubusercontent.com/JelteMX/mendix-file-dropper/master/assets/AppStoreIcon.png)
 - [AppStore](https://appstore.home.mendix.com/link/app/111497/)
 - [Github link](https://github.com/JelteMX/mendix-file-dropper)
 - [Project MPK](/projects/filedropper/FileDropper.mpk)
