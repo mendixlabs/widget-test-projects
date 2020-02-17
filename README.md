@@ -1,7 +1,13 @@
-Test Projects for widgets
+Test Projects for Widgets
 ===
 
 As I have published a couple of widgets in the Mendix App Store, I am releasing versions of the test-projects I am using for these widgets. This might help you implement these widgets in a succesful manner.
+
+Every entry consists of the following items:
+
+- AppStore link (page where you can download the widget itself)
+- Github link (project page for the widget, containing the source code)
+- Project MPK (This MPK file is a project package. Open the link, click on "Download" and open the MPK in the corresponding Studio version. As these widgets are forward compatible, you should be able to open the project in a newer Studio version as well)
 
 ## Contents
 
