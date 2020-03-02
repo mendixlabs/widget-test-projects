@@ -17,11 +17,11 @@ Every entry consists of the following items:
 - [Tree Table](#tree-table)
 - [Tree View](#tree-view)
 - [File Dropper](#file-dropper)
+- [Vertical Timeline](#vertical-timeline)
 
 ## TBD
 
 - Dropdown container
-- Attribute helper
 
 ## Projects
 
@@ -59,6 +59,14 @@ Every entry consists of the following items:
 - [Project MPK](/projects/filedropper/FileDropper.mpk)
 - [![Studio](https://img.shields.io/badge/Studio%20version-8.0%2B-blue.svg)](https://appstore.home.mendix.com/link/modeler/)
 
+
+### Dropdown Container
+
+![icon](https://raw.githubusercontent.com/JelteMX/mendix-dropdown-container/master/assets/AppStoreIcon.png)
+- [AppStore](https://appstore.home.mendix.com/link/app/111568/)
+- [Github link](https://github.com/JelteMX/mendix-dropdown-container)
+- [Project MPK](/projects/dropdown/DropDownContainer.mpk)
+- [![Studio](https://img.shields.io/badge/Studio%20version-8.2.2%2B-blue.svg)](https://appstore.home.mendix.com/link/modeler/)
 
 ### Vertical Timeline
 
