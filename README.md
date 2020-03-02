@@ -17,11 +17,8 @@ Every entry consists of the following items:
 - [Tree Table](#tree-table)
 - [Tree View](#tree-view)
 - [File Dropper](#file-dropper)
+- [Dropdown Container](#dropdown-container)
 - [Vertical Timeline](#vertical-timeline)
-
-## TBD
-
-- Dropdown container
 
 ## Projects
 
