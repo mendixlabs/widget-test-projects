@@ -75,7 +75,7 @@ Every entry consists of the following items:
 - [![Studio](https://img.shields.io/badge/Studio%20version-8.7%2B-blue.svg)](https://appstore.home.mendix.com/link/modeler/)
 
 
-### Vertical Timeline
+### Text Template
 
 ![icon](https://raw.githubusercontent.com/JelteMX/mendix-text-template/master/assets/AppStoreIcon.png)
 - [Github link](https://github.com/JelteMX/mendix-text-template)
