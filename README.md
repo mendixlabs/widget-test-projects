@@ -78,6 +78,7 @@ Every entry consists of the following items:
 ### Text Template
 
 ![icon](https://raw.githubusercontent.com/JelteMX/mendix-text-template/master/assets/AppStoreIcon.png)
+- [AppStore](https://appstore.home.mendix.com/link/app/114696/)
 - [Github link](https://github.com/JelteMX/mendix-text-template)
 - [Project MPK](/projects/texttemplate/TextTemplate.mpk)
 - [![Studio](https://img.shields.io/badge/Studio%20version-8.6.4%2B-blue.svg)](https://appstore.home.mendix.com/link/modeler/)
