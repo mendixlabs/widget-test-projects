@@ -65,6 +65,7 @@ Every entry consists of the following items:
 - [Project MPK](/projects/dropdown/DropDownContainer.mpk)
 - [![Studio](https://img.shields.io/badge/Studio%20version-8.2.2%2B-blue.svg)](https://appstore.home.mendix.com/link/modeler/)
 
+
 ### Vertical Timeline
 
 ![icon](https://raw.githubusercontent.com/JelteMX/mendix-vertical-timeline/master/assets/AppStoreIcon.png)
@@ -72,3 +73,11 @@ Every entry consists of the following items:
 - [Github link](https://github.com/JelteMX/mendix-vertical-timeline)
 - [Project MPK](/projects/timeline/PluggableTimeLine.mpk)
 - [![Studio](https://img.shields.io/badge/Studio%20version-8.7%2B-blue.svg)](https://appstore.home.mendix.com/link/modeler/)
+
+
+### Vertical Timeline
+
+![icon](https://raw.githubusercontent.com/JelteMX/mendix-text-template/master/assets/AppStoreIcon.png)
+- [Github link](https://github.com/JelteMX/mendix-text-template)
+- [Project MPK](/projects/texttemplate/TextTemplate.mpk)
+- [![Studio](https://img.shields.io/badge/Studio%20version-8.6.4%2B-blue.svg)](https://appstore.home.mendix.com/link/modeler/)
